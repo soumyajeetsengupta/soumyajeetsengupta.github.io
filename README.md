@@ -1,6 +1,6 @@
 # Hello, fellow developers! 👋
 
-My name is Soumyajeet, and I am on a journey to become a proficient MERN stack web developer.
+My name is Soumyajeet, and I am on a journey to become a proficient MEAN stack web developer.
 
 ## About Me
 - 💻 I'm currently learning the MERN stack (MongoDB, Express.js, React, Node.js).
